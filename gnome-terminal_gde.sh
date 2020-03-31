@@ -8,6 +8,12 @@
 ## of the hang-over of terminal (I am using sakura instead, because in gde neither deeping-terminal
 ## not gnome-terminal work). Error is as under
 
+### >update<
+## after logging in to xorg gnome desktop environment I get the following output
+# _g_io_module_get_default: Found default implementation gvfs (GDaemonVfs) for ‘gio-vfs’
+
+
+## previous output
  gnome-terminal
 # _g_io_module_get_default: Found default implementation dconf (DConfSettingsBackend) for ‘gsettings-backend’
 # watch_fast: "/org/gnome/desktop/interface/" (establishing: 0, active: 0)
